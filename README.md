@@ -1,6 +1,8 @@
 # CodeWiki
 
-AI-powered codebase wiki generator inspired by [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+> **Work in progress** — this is an early prototype. Expect rough edges, missing features, and breaking changes.
+
+**CodeWiki** is an AI-powered wiki generator that turns any codebase into a living, queryable knowledge base — inspired by [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). It ingests your repo, generates structured markdown docs, and keeps them in sync as your code evolves via git hooks. Ask questions in plain English and get answers grounded in real, up-to-date documentation. No more stale READMEs — just your codebase, always legible.
 
 ## Quick Start
 
